@@ -10,7 +10,8 @@ This Web API facilitates seamless interaction with the MEXC exchange's futures m
 - Place stop orders for advanced trading strategies.
 - Cancel stop orders as market conditions change.
 - Change order prices to adapt to fluctuating market dynamics.
-- Calculate order volume based on predefined criteria.
+- Calculate order volume based on predefined criteria. [Update]
+- Access to assets balance [New]
 
 ## Subscription Plans
 The API is accessible via the following subscription plans:
