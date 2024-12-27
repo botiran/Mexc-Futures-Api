@@ -21,5 +21,6 @@ The API is accessible via the following subscription plans:
 For those interested in owning the source code, we also offer a one-time purchase option.
 
 ![.NET Version](https://img.shields.io/badge/.NET-8-blueviolet.svg) ASP Web Api source code + 12 MONTH FREE UPDATE
+![Python Version](https://img.shields.io/badge/python-3.9-blue.svg) The core source is written in Python, and I have used this core in ASP.Net . If you work with Python, I can give you the Python source code of the core for $100. Please note that this core includes the implementation of methods like place_order, cancel_order, cancel_all, and edit_order. Additionally, you will become familiar with the signature creation algorithm, and after that, you can implement 90% of the futures capabilities used by the main site yourself [New]
 ## Contact
 - For inquiries and support, contact us at Telegram : https://t.me/BotIran_Support
