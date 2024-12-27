@@ -15,12 +15,12 @@ This Web API facilitates seamless interaction with the MEXC exchange's futures m
 
 ## Subscription Plans
 The API is accessible via the following subscription plans:
-- Monthly Subscription
-- Yearly Subscription
+- Monthly Subscription (50$)
+- Yearly Subscription (500$)
 
 For those interested in owning the source code, we also offer a one-time purchase option.
 
-![.NET Version](https://img.shields.io/badge/.NET-8-blueviolet.svg) ASP Web Api source code + 12 MONTH FREE UPDATE
+![.NET Version](https://img.shields.io/badge/.NET-8-blueviolet.svg) ASP Web Api source code + 12 MONTH FREE UPDATE (600$)
 
 ![Python Version](https://img.shields.io/badge/python-3.9-blue.svg) The core source is written in Python, and I have used this core in ASP.Net . If you work with Python, I can give you the Python source code of the core for $100. Please note that this core includes the implementation of methods like place_order, cancel_order, cancel_all, and edit_order. Additionally, you will become familiar with the signature creation algorithm, and after that, you can implement 90% of the futures capabilities used by the main site yourself [New]
 ## Contact
